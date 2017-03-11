@@ -1,0 +1,20 @@
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.canvas.resources
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Dan Budoias\Desktop\Miruna Ruxandra Budoias\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.canvas.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Win.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Lose.resources

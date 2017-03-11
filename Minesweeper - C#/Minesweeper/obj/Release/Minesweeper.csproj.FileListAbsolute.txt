@@ -1,0 +1,11 @@
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe.config
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.canvas.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.Lose.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.Win.resources
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
+C:\Users\Administrator.Sorin-PC\Desktop\Minesweeper\Minesweeper\obj\Release\Minesweeper.csprojResolveAssemblyReference.cache
